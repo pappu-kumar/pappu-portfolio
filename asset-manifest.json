@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pappu-portfolio/static/css/main.4aefc0c2.chunk.css",
+    "main.js": "/pappu-portfolio/static/js/main.c07a2925.chunk.js",
+    "main.js.map": "/pappu-portfolio/static/js/main.c07a2925.chunk.js.map",
+    "runtime-main.js": "/pappu-portfolio/static/js/runtime-main.36a1de53.js",
+    "runtime-main.js.map": "/pappu-portfolio/static/js/runtime-main.36a1de53.js.map",
+    "static/js/2.9182801d.chunk.js": "/pappu-portfolio/static/js/2.9182801d.chunk.js",
+    "static/js/2.9182801d.chunk.js.map": "/pappu-portfolio/static/js/2.9182801d.chunk.js.map",
+    "index.html": "/pappu-portfolio/index.html",
+    "static/css/main.4aefc0c2.chunk.css.map": "/pappu-portfolio/static/css/main.4aefc0c2.chunk.css.map",
+    "static/js/2.9182801d.chunk.js.LICENSE.txt": "/pappu-portfolio/static/js/2.9182801d.chunk.js.LICENSE.txt",
+    "static/media/about_anime.986764c2.gif": "/pappu-portfolio/static/media/about_anime.986764c2.gif",
+    "static/media/about_vector.c42fe3db.png": "/pappu-portfolio/static/media/about_vector.c42fe3db.png",
+    "static/media/contact_anime.1f3936c4.png": "/pappu-portfolio/static/media/contact_anime.1f3936c4.png",
+    "static/media/home_anime.f372ef86.gif": "/pappu-portfolio/static/media/home_anime.f372ef86.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a1de53.js",
+    "static/js/2.9182801d.chunk.js",
+    "static/css/main.4aefc0c2.chunk.css",
+    "static/js/main.c07a2925.chunk.js"
+  ]
+}
