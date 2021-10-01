@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pappu-portfolio/static/css/main.4aefc0c2.chunk.css",
-    "main.js": "/pappu-portfolio/static/js/main.c07a2925.chunk.js",
-    "main.js.map": "/pappu-portfolio/static/js/main.c07a2925.chunk.js.map",
+    "main.js": "/pappu-portfolio/static/js/main.fb66d64d.chunk.js",
+    "main.js.map": "/pappu-portfolio/static/js/main.fb66d64d.chunk.js.map",
     "runtime-main.js": "/pappu-portfolio/static/js/runtime-main.36a1de53.js",
     "runtime-main.js.map": "/pappu-portfolio/static/js/runtime-main.36a1de53.js.map",
     "static/js/2.9182801d.chunk.js": "/pappu-portfolio/static/js/2.9182801d.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.36a1de53.js",
     "static/js/2.9182801d.chunk.js",
     "static/css/main.4aefc0c2.chunk.css",
-    "static/js/main.c07a2925.chunk.js"
+    "static/js/main.fb66d64d.chunk.js"
   ]
 }
