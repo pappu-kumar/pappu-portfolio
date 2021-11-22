@@ -10,7 +10,7 @@ const About = () => {
         <div className="section-container">
             <Header
               heading = "About Me."
-              details = "I am Full stack web devloper, I have been devloping things from last Two years!"
+              details = "I am Full stack web developer, I have been devloping things from last Two years!"
             />
 
 

@@ -10,7 +10,7 @@ class Home extends Component {
             <div className="home-container">
                 <div className="header-text">
                     <h1>Welcome to my portfolio!</h1>
-                    <p>This is Pappu, a full stack dev and creater</p>
+                    <p>This is Pappu, a full stack developer</p>
                 </div>
                 <div className="head-btns">
                     <Link to='/about' className='btn btn-white'>
